@@ -72,6 +72,9 @@
 
             <label for="phone">Phone Number</label>
             <input type="tel" id="phone" name="phone" placeholder="Enter your phone number">
+ <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="Enter your phone number">
+
 
             <button type="submit">Register</button>
         </form>
